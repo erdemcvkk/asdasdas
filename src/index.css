@@ -191,6 +191,18 @@ select.form-control option {
   box-shadow: 0 6px 8px -1px rgba(59, 130, 246, 0.5);
 }
 
+.btn-danger {
+  background-color: var(--danger);
+  color: white;
+  box-shadow: 0 4px 6px -1px rgba(244, 63, 94, 0.4);
+}
+
+.btn-danger:hover {
+  background-color: #e11d48;
+  transform: translateY(-1px);
+  box-shadow: 0 6px 8px -1px rgba(244, 63, 94, 0.5);
+}
+
 .btn-full {
   width: 100%;
 }

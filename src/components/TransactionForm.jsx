@@ -71,7 +71,7 @@ function TransactionForm({ onAdd }) {
           />
         </div>
 
-        <button type="submit" className="btn btn-primary btn-full">
+        <button type="submit" className="btn btn-danger btn-full">
           İşlemi Kaydet
         </button>
       </form>
